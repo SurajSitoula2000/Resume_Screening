@@ -40,6 +40,6 @@ Upload PDF/Docx resumes
 Feedback-based ranking
 Save matches to a database
 
-Made by Suraj Sitoula – MCA Student | Aspiring Data Analyst
+## Made by Suraj Sitoula – MCA Student | Aspiring Data Analyst
 Connect on LinkedIn if you found this helpful!
 
